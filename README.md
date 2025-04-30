@@ -1,3 +1,5 @@
+Batch YouTube link adder for Google's NotebookLM to add a lot of YouTube sources.
+
 This can easily be modified to work with regular links as well. It may do so already, I have not tested it.
 
 Usage:
