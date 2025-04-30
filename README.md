@@ -13,6 +13,7 @@ You can shorten the delays to make it faster if u want to, i have not tested how
 
 This will not be maintained, it currently works as of April 30, 2025
 
-I updated and modified script from this guy, thank u
+I updated and modified script from this guy, thank u!
+
 Credit:
 https://jsfiddle.net/garrulinae/gej5sb4p/
