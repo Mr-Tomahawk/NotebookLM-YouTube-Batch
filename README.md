@@ -12,3 +12,6 @@ Usage:
 You can shorten the delays to make it faster if u want to, i have not tested how low u can go, if u go too fast some links will not add correctly
 
 This will not be maintained, it currently works as of April 30 2025
+
+Credit:
+https://jsfiddle.net/garrulinae/gej5sb4p/
